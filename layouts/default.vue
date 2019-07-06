@@ -34,8 +34,8 @@ nuxt {
 TheFooter {
   position: fixed;
   left: 0;
-  bottom: 0;
   width: 100;
+  height: 10px;
   text-align: center;
 }
 *,

@@ -23,29 +23,23 @@
             href="/">Home <span 
               class="sr-only">(current)</span></a>
         </li>
-        <li 
+        <li
           class="nav-item">
           <a 
             class="nav-link"
-            href="/about/about">About</a>
+            href="/about">About</a>
         </li>
-        <li 
+        <li
           class="nav-item">
-          <a
-            class="nav-link"
-            href="/mission/mission">Mission</a>
+          <a 
+            class="nav-link" 
+            href="/insights">Insights</a>
         </li>
         <li 
           class="nav-item">
           <a 
             class="nav-link" 
-            href="/insights/insights">Insights</a>
-        </li>
-        <li 
-          class="nav-item">
-          <a 
-            class="nav-link" 
-            href="#">Contact</a>
+            href="/contact">Contact</a>
         </li>
       </ul>
     </div>

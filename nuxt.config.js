@@ -46,15 +46,16 @@ module.exports = {
     // Doc: https://bootstrap-vue.js.org/docs/
     'bootstrap-vue/nuxt',
     ['storyblok-nuxt', 
-    { accessToken: '1XbZwPrsX3fY93JYNbMiKwtt', cacheProvider: 'memory'}]
+    // { accessToken: ' ESrUev44NKAcMMStFQqKtgtt', cacheProvider: 'memory'}]
+     { accessToken: 'ESrUev44NKAcMMStFQqKtgtt', cacheProvider: 'memory'}]
   ],
   /*
   ** Axios module configuration
-  */
+ 
   axios: {
     // See https://github.com/nuxt-community/axios-module#options
   },
-
+ */
   /*
   ** Build configuration
   */
